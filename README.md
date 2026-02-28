@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parkhojeong/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/parkhojeong/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/parkhojeong/LeetCode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/parkhojeong/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1710-maximum-units-on-a-truck](https://github.com/parkhojeong/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parkhojeong/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/parkhojeong/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/parkhojeong/LeetCode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/parkhojeong/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1710-maximum-units-on-a-truck](https://github.com/parkhojeong/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Sorting
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/parkhojeong/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/parkhojeong/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/parkhojeong/LeetCode/tree/master/0183-customers-who-never-order) |
+## Math
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/parkhojeong/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
