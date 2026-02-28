@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/parkhojeong/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/parkhojeong/LeetCode/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parkhojeong/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/parkhojeong/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/parkhojeong/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/parkhojeong/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/parkhojeong/LeetCode/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parkhojeong/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/parkhojeong/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/parkhojeong/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Sorting
 |  |
