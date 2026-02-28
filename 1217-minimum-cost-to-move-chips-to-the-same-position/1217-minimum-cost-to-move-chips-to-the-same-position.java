@@ -9,10 +9,7 @@ class Solution {
                 odd += 1;
             }
         }
-        if(odd == 0 || even == 0){
-            return 0;
-        }
-
+    
         return Math.min(odd,even);
     }
 }
