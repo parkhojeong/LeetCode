@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/parkhojeong/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parkhojeong/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/parkhojeong/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/parkhojeong/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/parkhojeong/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/parkhojeong/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/parkhojeong/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/parkhojeong/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/parkhojeong/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/parkhojeong/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/parkhojeong/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/parkhojeong/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Counting Sort
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/parkhojeong/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/parkhojeong/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->
