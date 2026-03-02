@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/parkhojeong/LeetCode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/parkhojeong/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/parkhojeong/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2578-split-with-minimum-sum](https://github.com/parkhojeong/LeetCode/tree/master/2578-split-with-minimum-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/parkhojeong/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/parkhojeong/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2578-split-with-minimum-sum](https://github.com/parkhojeong/LeetCode/tree/master/2578-split-with-minimum-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/parkhojeong/LeetCode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/parkhojeong/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/parkhojeong/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2578-split-with-minimum-sum](https://github.com/parkhojeong/LeetCode/tree/master/2578-split-with-minimum-sum) |
 ## Enumeration
 |  |
 | ------- |
