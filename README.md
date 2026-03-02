@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/parkhojeong/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/parkhojeong/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/parkhojeong/LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/parkhojeong/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/parkhojeong/LeetCode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/parkhojeong/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/parkhojeong/LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/parkhojeong/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Enumeration
 |  |
 | ------- |
