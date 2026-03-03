@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/parkhojeong/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/parkhojeong/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/parkhojeong/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/parkhojeong/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parkhojeong/LeetCode/tree/master/0001-two-sum) |
 | [0409-longest-palindrome](https://github.com/parkhojeong/LeetCode/tree/master/0409-longest-palindrome) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/parkhojeong/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parkhojeong/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/parkhojeong/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/parkhojeong/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/parkhojeong/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
