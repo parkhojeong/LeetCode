@@ -15,12 +15,12 @@ class Solution {
 
         int earliestFinishTime = Integer.MAX_VALUE;
         for(int i = 0; i < bStartTime.length; i++){
-            int duration = bDuration[i];
             int finishTime = 0;
+
             if(bStartTime[i] <= aEarliestFinishTime){
-                finishTime = aEarliestFinishTime + duration;
+                finishTime = aEarliestFinishTime + bDuration[i];
             } else {
-                finishTime = bStartTime[i] + duration;
+                finishTime = bStartTime[i] + bDuration[i];
             }
 
             earliestFinishTime = Math.min(finishTime, earliestFinishTime);
