@@ -8,9 +8,9 @@ class Solution {
     public int getEarliestFinishTime(int[] aStartTime, int[] aDuration, int[] bStartTime, int[] bDuration) {
         int aEarliestFinishTime = Integer.MAX_VALUE;
         for(int i = 0; i < aStartTime.length; i++){
-            if(aStartTime[i] + aDuration[i] < aEarliestFinishTime){
-                aEarliestFinishTime = aStartTime[i] + aDuration[i];
-            }
+            int finishTime = aStartTime[i] + aDuration[i];
+
+            aEarliestFinishTime = Math.min(finishTime, aEarliestFinishTime);
         }
 
         int earliestFinishTime = Integer.MAX_VALUE;
@@ -23,9 +23,7 @@ class Solution {
                 finishTime = bStartTime[i] + duration;
             }
 
-            if(finishTime < earliestFinishTime){
-                earliestFinishTime = finishTime;
-            }
+            earliestFinishTime = Math.min(finishTime, earliestFinishTime);
         }
 
         return earliestFinishTime;
