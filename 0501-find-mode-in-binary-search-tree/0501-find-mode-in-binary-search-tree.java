@@ -14,45 +14,33 @@
  * }
  */
 class Solution {
+    Map<Integer, Integer> modeMap = new HashMap<>();
+    private int max = 0;
+
     public int[] findMode(TreeNode root) {
-        List<Integer> arr = dfs2(root);
-        System.out.println(arr);
+        dfs2(root);
 
-        Map<Integer, Integer> modeMap = new HashMap<>();
-        int max = 0;
-        for(int i = 0; i < arr.size(); i++){
-            int val = arr.get(i);
-            int newCount = modeMap.getOrDefault(val, 0) + 1;
-            modeMap.put(val, newCount);
-
-            if(newCount > max) {
-                max = newCount;
-            }
-        }
-        
-        final int maxVal = max;
         return modeMap.entrySet()
             .stream()
-            .filter((entrySet) -> entrySet.getValue() == maxVal)
+            .filter(entrySet -> entrySet.getValue() == max)
             .map(entrySet -> entrySet.getKey())
             .mapToInt(Integer::intValue)
             .toArray();
     }
 
-    private List<Integer> dfs2(TreeNode node) {
-        List<Integer> arr = new ArrayList<>();
+    private void dfs2(TreeNode node) {
         if(node == null){
-            return arr;
+            return;
         }
 
         if(node.left != null)
-            arr.addAll(dfs2(node.left));
+            dfs2(node.left);
 
-        arr.add(node.val);
+        int newVal = modeMap.getOrDefault(node.val, 0) + 1;
+        modeMap.put(node.val, newVal);
+        if(max < newVal) max = newVal;
         
         if(node.right != null) 
-            arr.addAll(dfs2(node.right));
-
-        return arr;
+            dfs2(node.right);
     }
 }
