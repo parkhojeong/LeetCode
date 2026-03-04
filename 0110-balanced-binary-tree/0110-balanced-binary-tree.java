@@ -26,7 +26,11 @@ class Solution {
         int d1 = dfs(node.left, depth + 1);
         int d2 = dfs(node.right, depth + 1);
 
-        if(d1 == -1 || d2 == -1 || Math.abs(d1 - d2) > 1){
+        if(d1 == -1 || d2 == -1){
+            return -1;
+        }
+
+        if(Math.abs(d1 - d2) > 1) {
             return -1;
         }
 
