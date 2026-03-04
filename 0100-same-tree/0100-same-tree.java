@@ -15,12 +15,26 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        List<Integer> output1 = new ArrayList<>();
-        inorder(p, output1);
-;
-        List<Integer> output2 = new ArrayList<>();
-        inorder(q, output2);
-        return output1.equals(output2);
+        if(p == null && q == null) {
+            return true;
+        }
+
+        if(p == null || q == null){
+            return false;
+        }
+
+        if(p.val != q.val) {
+            return false;
+        }
+
+        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
+
+//         List<Integer> output1 = new ArrayList<>();
+//         inorder(p, output1);
+// ;
+//         List<Integer> output2 = new ArrayList<>();
+//         inorder(q, output2);
+//         return output1.equals(output2);
     
     }
 
