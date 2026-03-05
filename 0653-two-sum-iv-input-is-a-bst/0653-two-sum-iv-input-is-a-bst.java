@@ -44,7 +44,7 @@ class Solution {
             if(left != null) stack.push(left);
         }
 
-        System.out.println(stack);
+        // System.out.println(stack);
         // dfs(root);
 
         // for(int val: valToCountMap.keySet()){
