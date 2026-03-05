@@ -36,14 +36,14 @@ class Solution {
                 continue;
             }
 
-            TreeNode left = node.left;
-            TreeNode right = node.right;
+            
+
+            if(node.right != null) stack.push(node.right);
+            stack.push(node);
+            if(node.left != null) stack.push(node.left);
+
             node.left = null;
             node.right = null;
-
-            if(right != null) stack.push(right);
-            stack.push(node);
-            if(left != null) stack.push(left);
         }
         
         return false;
