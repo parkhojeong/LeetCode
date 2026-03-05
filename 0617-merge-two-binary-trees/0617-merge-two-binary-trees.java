@@ -33,55 +33,44 @@ class Solution {
         }
 
         if(node1 != null && node1.left != null) {
-            TreeNode left = new TreeNode(node1.left.val);
-            node.left = left;
+            node.left = new TreeNode(node1.left.val);
 
             if(node2 != null && node2.left != null) {
-                left.val += node2.val;
-                dfs(left, node1.left, node2.left);
+
+                dfs(node.left, node1.left, node2.left);
             } else {
-                dfs(left, node1.left, null);
+                dfs(node.left, node1.left, null);
             }
             
         } else if(node2 != null && node2.left != null) {
-            TreeNode left = new TreeNode(node2.left.val);
-            node.left = left;
+            node.left = new TreeNode(node2.left.val);
 
             if(node1 != null && node1.left != null) {
-                left.val += node1.val;
-                dfs(left, node1.left, node2.left);
+                dfs(node.left, node1.left, node2.left);
             }else{
-                dfs(left, null, node2.left);
+                dfs(node.left, null, node2.left);
             }
         }
 
         if(node1 != null && node1.right != null) {
-            TreeNode right = new TreeNode(node1.right.val);
-            node.right = right;
+            node.right = new TreeNode(node1.right.val);
 
             if(node2 != null && node2.right != null) {
-                right.val += node2.val;    
-                dfs(right, node1.right, node2.right);
+                dfs(node.right, node1.right, node2.right);
             } else {
-                dfs(right, node1.right, null);
+                dfs(node.right, node1.right, null);
             }
         
             
         } else if(node2 != null && node2.right != null) {
-            TreeNode right = new TreeNode(node2.right.val);
-            node.right = right;
+            node.right = new TreeNode(node2.right.val);
 
             if(node1 != null && node1.right != null) {
-                right.val += node1.val;
-                dfs(right, node1.right, node2.right);
+                dfs(node.right, node1.right, node2.right);
             } else {
-                dfs(right, null, node2.right);
+                dfs(node.right, null, node2.right);
             }
 
         }
-
-
     }
-
-    
 }
