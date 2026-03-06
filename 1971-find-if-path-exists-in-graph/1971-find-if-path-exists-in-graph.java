@@ -17,10 +17,9 @@ class Solution {
     }
  
     boolean dfs(int source, int destination) {
-        Set<Integer> set = edgeMap.get(source);
-        if(set.contains(destination)) return true;
+        if(edgeMap.get(source).contains(destination)) return true;
 
-        for(int target: set) {
+        for(int target: edgeMap.get(source)) {
             if(visited.contains(target)) continue;
             visited.add(target);
 
