@@ -39,7 +39,7 @@ class Solution {
             if(i > 0                && grid[i-1][j] == 1) q.add(new int[]{i-1, j});
             if(j > 0                && grid[i][j-1] == 1) q.add(new int[]{i, j-1});
             if(i < grid.length-1    && grid[i+1][j] == 1) q.add(new int[]{i+1, j});
-            if(j < grid[0].length-1 && grid[i][j+1] == 1) q.add(new int[]{i, j+1});            
+            if(j < grid[0].length-1 && grid[i][j+1] == 1) q.add(new int[]{i, j+1});                    
         }
 
         return sum;
