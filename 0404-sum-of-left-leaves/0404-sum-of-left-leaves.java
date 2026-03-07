@@ -15,7 +15,26 @@
  */
 class Solution {
     public int sumOfLeftLeaves(TreeNode root) {
-        return dfs(root, false);
+        return bfs(root);
+        // return dfs(root, false);
+    }
+
+    int bfs(TreeNode node) {
+        Queue<TreeNode> q = new ArrayDeque<>();
+        q.add(node);
+        int sum = 0;
+
+        while(!q.isEmpty()) {
+            TreeNode n = q.poll();
+            if(n.left != null && n.left.left == null && n.left.right == null){
+                sum += n.left.val;
+            }
+
+            if(n.left != null) q.add(n.left);
+            if(n.right != null) q.add(n.right);
+        }
+
+        return sum;
     }
 
     public int dfs(TreeNode node, boolean isLeft) {
