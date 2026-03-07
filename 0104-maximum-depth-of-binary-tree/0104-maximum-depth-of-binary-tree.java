@@ -15,14 +15,41 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
-        if(root == null){
-            return 0;
-        }
-        if(root.left == null && root.right == null) {
-            return 1;
+        // return bfs(root);
+
+        return dfs(root, 0);
+
+        // if(root == null){
+        //     return 0;
+        // }
+        // if(root.left == null && root.right == null) {
+        //     return 1;
+        // }
+
+        // return Math.max(dfs(root.left, 1), dfs(root.right, 1));
+    }
+
+    private int bfs(TreeNode root) {
+        Queue<TreeNode> q = new ArrayDeque<>();
+        q.add(root);
+        int depth = 0;
+
+        while(!q.isEmpty()){
+            Queue<TreeNode> q2 = new ArrayDeque<>();
+            while(!q.isEmpty()) {
+                q2.add(q.poll());
+            }
+
+            while(!q2.isEmpty()){
+                TreeNode n = q2.poll();
+                if(n.left != null) q.add(n.left);
+                if(n.right != null) q.add(n.right);
+            }
+
+            depth++;
         }
 
-        return Math.max(dfs(root.left, 1), dfs(root.right, 1));
+        return depth;
     }
 
     private int dfs(TreeNode node, int depth){
