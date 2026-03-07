@@ -19,7 +19,36 @@ class Solution {
             return 0;
         }
 
-        return dfs(root, 1);
+        return bfs(root);
+
+        // return dfs(root, 1);
+    }
+
+    int bfs(TreeNode node) {
+        Queue<TreeNode> q = new ArrayDeque<>(); 
+        q.add(node);
+        
+        int depth = 1;
+        while(!q.isEmpty()) {
+            List<TreeNode> list = new ArrayList<>();
+            while(!q.isEmpty()){
+                TreeNode n = q.poll();
+
+                if(n.left == null && n.right == null) return depth;
+
+                if(n.left != null) list.add(n.left);
+                if(n.right != null) list.add(n.right);
+            }
+
+            for(int i = 0 ; i < list.size(); i++){
+                q.add(list.get(i));
+            }
+
+            depth += 1;
+        }
+
+        return depth;
+
     }
 
     private int dfs(TreeNode node, int depth) {
