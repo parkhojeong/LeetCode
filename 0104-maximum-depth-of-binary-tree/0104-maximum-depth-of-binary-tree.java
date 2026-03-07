@@ -22,14 +22,14 @@ class Solution {
             return 1;
         }
 
-        return Math.max(bfs(root.left, 1), bfs(root.right, 1));
+        return Math.max(dfs(root.left, 1), dfs(root.right, 1));
     }
 
-    private int bfs(TreeNode node, int depth){
+    private int dfs(TreeNode node, int depth){
         if(node == null) {
             return depth;
         }
 
-        return Math.max(bfs(node.left, depth+1), bfs(node.right, depth+1));
+        return Math.max(dfs(node.left, depth+1), dfs(node.right, depth+1));
     }
 }
