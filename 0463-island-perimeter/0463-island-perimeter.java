@@ -1,5 +1,9 @@
 class Solution {
     public int islandPerimeter(int[][] grid) {
+        return useDfs(grid);
+    }
+
+    int useDfs(int[][] grid) {
         int output = 0;
         for(int i = 0; i < grid.length; i++){
             for(int j = 0; j < grid[0].length; j++){
