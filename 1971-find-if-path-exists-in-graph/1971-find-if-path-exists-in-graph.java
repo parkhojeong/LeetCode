@@ -1,31 +1,29 @@
 class Solution {
-    Set<Integer> visited = new HashSet<>();
-    Map<Integer, Set<Integer>> edgeMap = new HashMap<>();
+    int getParent(int[] arr, int i){
+        if(arr[i] == i) return i;
+        return getParent(arr, arr[i]);
+    }
+
+    void unionParent(int[] arr, int i, int j) {
+        int a = getParent(arr, i);
+        int b = getParent(arr, j);
+        if(a < b) {
+            arr[b] = a;
+        } else {
+            arr[a] = b;
+        }
+    }
 
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        if(n == 1) return true;
-
+        int[] arr = new int[n];
         for(int i = 0; i < n; i++){
-            edgeMap.put(i, new HashSet<>());
-        }
-        for(int i = 0; i < edges.length; i++){
-            edgeMap.get(edges[i][0]).add(edges[i][1]);
-            edgeMap.get(edges[i][1]).add(edges[i][0]); 
+            arr[i] = i;
         }
 
-        return dfs(source, destination);
-    }
- 
-    boolean dfs(int source, int destination) {
-        if(edgeMap.get(source).contains(destination)) return true;
-
-        for(int target: edgeMap.get(source)) {
-            if(visited.contains(target)) continue;
-            visited.add(target);
-
-            if(dfs(target, destination)) return true;
+        for(int i = 0; i < edges.length; i++) {
+            unionParent(arr, edges[i][0], edges[i][1]);
         }
 
-        return false;
+        return getParent(arr, source) == getParent(arr, destination);
     }
 }
