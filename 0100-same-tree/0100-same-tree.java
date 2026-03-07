@@ -15,6 +15,10 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
+        return dfs(p, q);
+    }
+
+    public boolean dfs(TreeNode p, TreeNode q) {
         if(p == null && q == null) {
             return true;
         }
@@ -28,25 +32,5 @@ class Solution {
         }
 
         return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
-
-//         List<Integer> output1 = new ArrayList<>();
-//         inorder(p, output1);
-// ;
-//         List<Integer> output2 = new ArrayList<>();
-//         inorder(q, output2);
-//         return output1.equals(output2);
-    
     }
-
-    private void inorder(TreeNode n, List<Integer> l) {
-        if(n == null){
-            l.add(null);
-            return;
-        }
-
-        l.add(n.val);
-        inorder(n.left, l);
-        inorder(n.right, l);
-    }
-
 }
