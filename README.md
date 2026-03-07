@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parkhojeong/LeetCode/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/parkhojeong/LeetCode/tree/master/0118-pascals-triangle) |
 | [0455-assign-cookies](https://github.com/parkhojeong/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/parkhojeong/LeetCode/tree/master/0463-island-perimeter) |
 | [0561-array-partition](https://github.com/parkhojeong/LeetCode/tree/master/0561-array-partition) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/parkhojeong/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/parkhojeong/LeetCode/tree/master/0118-pascals-triangle) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/parkhojeong/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Matrix
 |  |
