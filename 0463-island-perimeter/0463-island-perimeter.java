@@ -1,6 +1,48 @@
 class Solution {
     public int islandPerimeter(int[][] grid) {
-        return useDfs(grid);
+        return bfs(grid);
+        // return useDfs(grid);
+    }
+
+    int bfs(int[][] grid) {
+        Queue<int[]> q = new ArrayDeque<>();
+        int[] start = new int[2];
+        for(int i = 0; i < grid.length; i++){
+            for(int j = 0; j < grid[0].length; j++) {
+                if(grid[i][j] == 1) {
+                    start[0] = i;
+                    start[1] = j;
+                    break;
+                }
+            }
+        }
+        q.add(start);
+        int sum = 0;
+        while(!q.isEmpty()) {
+            int[] cell = q.poll();
+            int i = cell[0];
+            int j = cell[1];
+
+            if(grid[i][j] != 1) continue;
+            grid[i][j] = -1;
+
+            if(i == 0) sum += 1;
+            if(j == 0) sum += 1;
+            if(i == grid.length -1) sum += 1;
+            if(j == grid[0].length - 1) sum += 1;
+
+            if(i > 0                && grid[i-1][j] == 0) sum += 1;
+            if(j > 0                && grid[i][j-1] == 0) sum += 1;
+            if(i < grid.length-1    && grid[i+1][j] == 0) sum += 1;
+            if(j < grid[0].length-1 && grid[i][j+1] == 0) sum += 1;
+
+            if(i > 0                && grid[i-1][j] == 1) q.add(new int[]{i-1, j});
+            if(j > 0                && grid[i][j-1] == 1) q.add(new int[]{i, j-1});
+            if(i < grid.length-1    && grid[i+1][j] == 1) q.add(new int[]{i+1, j});
+            if(j < grid[0].length-1 && grid[i][j+1] == 1) q.add(new int[]{i, j+1});            
+        }
+
+        return sum;
     }
 
     int useDfs(int[][] grid) {
