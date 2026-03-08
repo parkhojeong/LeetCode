@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/parkhojeong/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/parkhojeong/LeetCode/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/parkhojeong/LeetCode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/parkhojeong/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/parkhojeong/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/parkhojeong/LeetCode/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parkhojeong/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/parkhojeong/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/parkhojeong/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/parkhojeong/LeetCode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/parkhojeong/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/parkhojeong/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Matrix
 |  |
