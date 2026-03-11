@@ -14,7 +14,5 @@ class Solution {
             }
         }
         return count; 
-        // String[] arr = s.trim().split("\\s+");
-        // return arr[arr.length-1].length();
     }
 }
