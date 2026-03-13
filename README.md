@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parkhojeong/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/parkhojeong/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0055-jump-game](https://github.com/parkhojeong/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/parkhojeong/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/parkhojeong/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parkhojeong/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/parkhojeong/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/parkhojeong/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/parkhojeong/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/parkhojeong/LeetCode/tree/master/0561-array-partition) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/parkhojeong/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/parkhojeong/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/parkhojeong/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/parkhojeong/LeetCode/tree/master/0119-pascals-triangle-ii) |
