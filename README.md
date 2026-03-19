@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/parkhojeong/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0246-strobogrammatic-number](https://github.com/parkhojeong/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0392-is-subsequence](https://github.com/parkhojeong/LeetCode/tree/master/0392-is-subsequence) |
+| [0408-valid-word-abbreviation](https://github.com/parkhojeong/LeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0455-assign-cookies](https://github.com/parkhojeong/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/parkhojeong/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/parkhojeong/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/parkhojeong/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0266-palindrome-permutation](https://github.com/parkhojeong/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0392-is-subsequence](https://github.com/parkhojeong/LeetCode/tree/master/0392-is-subsequence) |
+| [0408-valid-word-abbreviation](https://github.com/parkhojeong/LeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0409-longest-palindrome](https://github.com/parkhojeong/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/parkhojeong/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/parkhojeong/LeetCode/tree/master/0942-di-string-match) |
