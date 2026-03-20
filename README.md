@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/parkhojeong/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/parkhojeong/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/parkhojeong/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/parkhojeong/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0942-di-string-match](https://github.com/parkhojeong/LeetCode/tree/master/0942-di-string-match) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/parkhojeong/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/parkhojeong/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0408-valid-word-abbreviation](https://github.com/parkhojeong/LeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0409-longest-palindrome](https://github.com/parkhojeong/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/parkhojeong/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/parkhojeong/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0942-di-string-match](https://github.com/parkhojeong/LeetCode/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/parkhojeong/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1668-maximum-repeating-substring](https://github.com/parkhojeong/LeetCode/tree/master/1668-maximum-repeating-substring) |
