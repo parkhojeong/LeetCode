@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/parkhojeong/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/parkhojeong/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/parkhojeong/LeetCode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/parkhojeong/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/parkhojeong/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/parkhojeong/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/parkhojeong/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/parkhojeong/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/parkhojeong/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/parkhojeong/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
