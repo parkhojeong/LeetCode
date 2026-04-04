@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-make-array-elements-equal-to-zero](https://github.com/parkhojeong/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/parkhojeong/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/parkhojeong/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/parkhojeong/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3637-trionic-array-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/parkhojeong/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/parkhojeong/LeetCode/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/parkhojeong/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/parkhojeong/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Two Pointers
 |  |
@@ -241,11 +243,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/parkhojeong/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/parkhojeong/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/parkhojeong/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parkhojeong/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -500,4 +505,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/parkhojeong/LeetCode/tree/master/0359-logger-rate-limiter) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
