@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/parkhojeong/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/parkhojeong/LeetCode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/parkhojeong/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3379-transformed-array](https://github.com/parkhojeong/LeetCode/tree/master/3379-transformed-array) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/parkhojeong/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/parkhojeong/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/parkhojeong/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3379-transformed-array](https://github.com/parkhojeong/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
