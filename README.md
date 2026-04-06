@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/parkhojeong/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/parkhojeong/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/parkhojeong/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/parkhojeong/LeetCode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/parkhojeong/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/parkhojeong/LeetCode/tree/master/3379-transformed-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/parkhojeong/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/parkhojeong/LeetCode/tree/master/3032-count-numbers-with-unique-digits-ii) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/parkhojeong/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/parkhojeong/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/parkhojeong/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/parkhojeong/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/parkhojeong/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
@@ -526,4 +529,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/parkhojeong/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+## Sliding Window
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/parkhojeong/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
