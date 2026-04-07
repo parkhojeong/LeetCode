@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0266-palindrome-permutation](https://github.com/parkhojeong/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0338-counting-bits](https://github.com/parkhojeong/LeetCode/tree/master/0338-counting-bits) |
+| [0868-binary-gap](https://github.com/parkhojeong/LeetCode/tree/master/0868-binary-gap) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/parkhojeong/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
