@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/parkhojeong/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1708-largest-subarray-length-k](https://github.com/parkhojeong/LeetCode/tree/master/1708-largest-subarray-length-k) |
 | [1710-maximum-units-on-a-truck](https://github.com/parkhojeong/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/parkhojeong/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/parkhojeong/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/parkhojeong/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parkhojeong/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
