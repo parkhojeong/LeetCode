@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/parkhojeong/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/parkhojeong/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/parkhojeong/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/parkhojeong/LeetCode/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/parkhojeong/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/parkhojeong/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/parkhojeong/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/parkhojeong/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/parkhojeong/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/parkhojeong/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/parkhojeong/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/parkhojeong/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/parkhojeong/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/parkhojeong/LeetCode/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/parkhojeong/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/parkhojeong/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/parkhojeong/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/parkhojeong/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Database
 |  |
