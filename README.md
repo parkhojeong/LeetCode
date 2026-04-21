@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/parkhojeong/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/parkhojeong/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/parkhojeong/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/parkhojeong/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/parkhojeong/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/parkhojeong/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/parkhojeong/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parkhojeong/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/parkhojeong/LeetCode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1200-minimum-absolute-difference](https://github.com/parkhojeong/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/parkhojeong/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/parkhojeong/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/parkhojeong/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/parkhojeong/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/parkhojeong/LeetCode/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/parkhojeong/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/parkhojeong/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/parkhojeong/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/parkhojeong/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/parkhojeong/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/parkhojeong/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0338-counting-bits](https://github.com/parkhojeong/LeetCode/tree/master/0338-counting-bits) |
 | [0868-binary-gap](https://github.com/parkhojeong/LeetCode/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/parkhojeong/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/parkhojeong/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
