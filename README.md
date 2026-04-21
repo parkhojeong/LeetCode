@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/parkhojeong/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/parkhojeong/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/parkhojeong/LeetCode/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/parkhojeong/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/parkhojeong/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parkhojeong/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/parkhojeong/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/parkhojeong/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/parkhojeong/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0942-di-string-match](https://github.com/parkhojeong/LeetCode/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/parkhojeong/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/parkhojeong/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1668-maximum-repeating-substring](https://github.com/parkhojeong/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/parkhojeong/LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
