@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/parkhojeong/LeetCode/tree/master/0134-gas-station) |
 | [0219-contains-duplicate-ii](https://github.com/parkhojeong/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0243-shortest-word-distance](https://github.com/parkhojeong/LeetCode/tree/master/0243-shortest-word-distance) |
+| [0346-moving-average-from-data-stream](https://github.com/parkhojeong/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0455-assign-cookies](https://github.com/parkhojeong/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/parkhojeong/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/parkhojeong/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -533,10 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/parkhojeong/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/parkhojeong/LeetCode/tree/master/0359-logger-rate-limiter) |
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/parkhojeong/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/parkhojeong/LeetCode/tree/master/0359-logger-rate-limiter) |
 ## Doubly-Linked List
 |  |
@@ -563,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/parkhojeong/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Queue
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/parkhojeong/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 <!---LeetCode Topics End-->
