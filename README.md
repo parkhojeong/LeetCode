@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/parkhojeong/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/parkhojeong/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/parkhojeong/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/parkhojeong/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/parkhojeong/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1708-largest-subarray-length-k](https://github.com/parkhojeong/LeetCode/tree/master/1708-largest-subarray-length-k) |
 | [1710-maximum-units-on-a-truck](https://github.com/parkhojeong/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
