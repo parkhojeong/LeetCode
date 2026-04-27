@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/parkhojeong/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/parkhojeong/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/parkhojeong/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/parkhojeong/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/parkhojeong/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/parkhojeong/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/parkhojeong/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/parkhojeong/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/parkhojeong/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/parkhojeong/LeetCode/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/parkhojeong/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/parkhojeong/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-distribute-money-to-maximum-children](https://github.com/parkhojeong/LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/parkhojeong/LeetCode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/parkhojeong/LeetCode/tree/master/2864-maximum-odd-binary-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/parkhojeong/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parkhojeong/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/parkhojeong/LeetCode/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/parkhojeong/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/parkhojeong/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/parkhojeong/LeetCode/tree/master/0733-flood-fill) |
+| [2965-find-missing-and-repeated-values](https://github.com/parkhojeong/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/parkhojeong/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Stack
 |  |
