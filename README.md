@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/parkhojeong/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parkhojeong/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/parkhojeong/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/parkhojeong/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1196-how-many-apples-can-you-put-into-the-basket](https://github.com/parkhojeong/LeetCode/tree/master/1196-how-many-apples-can-you-put-into-the-basket) |
 | [1200-minimum-absolute-difference](https://github.com/parkhojeong/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/parkhojeong/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/parkhojeong/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0338-counting-bits](https://github.com/parkhojeong/LeetCode/tree/master/0338-counting-bits) |
 | [0868-binary-gap](https://github.com/parkhojeong/LeetCode/tree/master/0868-binary-gap) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/parkhojeong/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/parkhojeong/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/parkhojeong/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
