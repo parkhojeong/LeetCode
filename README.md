@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/parkhojeong/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/parkhojeong/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/parkhojeong/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/parkhojeong/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/parkhojeong/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/parkhojeong/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/parkhojeong/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/parkhojeong/LeetCode/tree/master/0409-longest-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/parkhojeong/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/parkhojeong/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/parkhojeong/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/parkhojeong/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/parkhojeong/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/parkhojeong/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/parkhojeong/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/parkhojeong/LeetCode/tree/master/3379-transformed-array) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/parkhojeong/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/parkhojeong/LeetCode/tree/master/0733-flood-fill) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/parkhojeong/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/parkhojeong/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/parkhojeong/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Stack
