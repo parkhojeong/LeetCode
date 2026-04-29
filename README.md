@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/parkhojeong/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/parkhojeong/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/parkhojeong/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1854-maximum-population-year](https://github.com/parkhojeong/LeetCode/tree/master/1854-maximum-population-year) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/parkhojeong/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/parkhojeong/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/parkhojeong/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/parkhojeong/LeetCode/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/parkhojeong/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/parkhojeong/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1854-maximum-population-year](https://github.com/parkhojeong/LeetCode/tree/master/1854-maximum-population-year) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/parkhojeong/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/parkhojeong/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/parkhojeong/LeetCode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/parkhojeong/LeetCode/tree/master/1854-maximum-population-year) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/parkhojeong/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/parkhojeong/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Dynamic Programming
