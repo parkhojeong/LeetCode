@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/parkhojeong/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/parkhojeong/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/parkhojeong/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1539-kth-missing-positive-number](https://github.com/parkhojeong/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1656-design-an-ordered-stream](https://github.com/parkhojeong/LeetCode/tree/master/1656-design-an-ordered-stream) |
 | [1708-largest-subarray-length-k](https://github.com/parkhojeong/LeetCode/tree/master/1708-largest-subarray-length-k) |
 | [1710-maximum-units-on-a-truck](https://github.com/parkhojeong/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/parkhojeong/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
+| [1539-kth-missing-positive-number](https://github.com/parkhojeong/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/parkhojeong/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/parkhojeong/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
