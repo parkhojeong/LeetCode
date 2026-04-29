@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/parkhojeong/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/parkhojeong/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/parkhojeong/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1656-design-an-ordered-stream](https://github.com/parkhojeong/LeetCode/tree/master/1656-design-an-ordered-stream) |
 | [1708-largest-subarray-length-k](https://github.com/parkhojeong/LeetCode/tree/master/1708-largest-subarray-length-k) |
 | [1710-maximum-units-on-a-truck](https://github.com/parkhojeong/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/parkhojeong/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/parkhojeong/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/parkhojeong/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/parkhojeong/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1656-design-an-ordered-stream](https://github.com/parkhojeong/LeetCode/tree/master/1656-design-an-ordered-stream) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/parkhojeong/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/parkhojeong/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/parkhojeong/LeetCode/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -554,11 +556,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/parkhojeong/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/parkhojeong/LeetCode/tree/master/0359-logger-rate-limiter) |
+| [1656-design-an-ordered-stream](https://github.com/parkhojeong/LeetCode/tree/master/1656-design-an-ordered-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/parkhojeong/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/parkhojeong/LeetCode/tree/master/0359-logger-rate-limiter) |
+| [1656-design-an-ordered-stream](https://github.com/parkhojeong/LeetCode/tree/master/1656-design-an-ordered-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
