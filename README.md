@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/parkhojeong/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/parkhojeong/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/parkhojeong/LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parkhojeong/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/parkhojeong/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/parkhojeong/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1656-design-an-ordered-stream](https://github.com/parkhojeong/LeetCode/tree/master/1656-design-an-ordered-stream) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/parkhojeong/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/parkhojeong/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/parkhojeong/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parkhojeong/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
 | ------- |
@@ -606,4 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/parkhojeong/LeetCode/tree/master/0346-moving-average-from-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parkhojeong/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
