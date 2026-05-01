@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/parkhojeong/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/parkhojeong/LeetCode/tree/master/0401-binary-watch) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0266-palindrome-permutation](https://github.com/parkhojeong/LeetCode/tree/master/0266-palindrome-permutation) |
 | [0338-counting-bits](https://github.com/parkhojeong/LeetCode/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/parkhojeong/LeetCode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/parkhojeong/LeetCode/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/parkhojeong/LeetCode/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/parkhojeong/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
