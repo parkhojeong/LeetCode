@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/parkhojeong/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/parkhojeong/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/parkhojeong/LeetCode/tree/master/0645-set-mismatch) |
+| [0706-design-hashmap](https://github.com/parkhojeong/LeetCode/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/parkhojeong/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/parkhojeong/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/parkhojeong/LeetCode/tree/master/0860-lemonade-change) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/parkhojeong/LeetCode/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/parkhojeong/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/parkhojeong/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0706-design-hashmap](https://github.com/parkhojeong/LeetCode/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/parkhojeong/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/parkhojeong/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1656-design-an-ordered-stream](https://github.com/parkhojeong/LeetCode/tree/master/1656-design-an-ordered-stream) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/parkhojeong/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/parkhojeong/LeetCode/tree/master/0706-design-hashmap) |
 ## Union-Find
 |  |
 | ------- |
@@ -566,12 +569,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/parkhojeong/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parkhojeong/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0706-design-hashmap](https://github.com/parkhojeong/LeetCode/tree/master/0706-design-hashmap) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/parkhojeong/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/parkhojeong/LeetCode/tree/master/0359-logger-rate-limiter) |
+| [0706-design-hashmap](https://github.com/parkhojeong/LeetCode/tree/master/0706-design-hashmap) |
 | [1656-design-an-ordered-stream](https://github.com/parkhojeong/LeetCode/tree/master/1656-design-an-ordered-stream) |
 ## Data Stream
 |  |
