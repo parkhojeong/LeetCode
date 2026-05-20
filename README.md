@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-make-array-elements-equal-to-zero](https://github.com/parkhojeong/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/parkhojeong/LeetCode/tree/master/3379-transformed-array) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/parkhojeong/LeetCode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/parkhojeong/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/parkhojeong/LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/parkhojeong/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/parkhojeong/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parkhojeong/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/parkhojeong/LeetCode/tree/master/3032-count-numbers-with-unique-digits-ii) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/parkhojeong/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/parkhojeong/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/parkhojeong/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/parkhojeong/LeetCode/tree/master/1854-maximum-population-year) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/parkhojeong/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/parkhojeong/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/parkhojeong/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
