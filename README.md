@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/parkhojeong/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parkhojeong/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/parkhojeong/LeetCode/tree/master/0134-gas-station) |
+| [0217-contains-duplicate](https://github.com/parkhojeong/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/parkhojeong/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0243-shortest-word-distance](https://github.com/parkhojeong/LeetCode/tree/master/0243-shortest-word-distance) |
 | [0346-moving-average-from-data-stream](https://github.com/parkhojeong/LeetCode/tree/master/0346-moving-average-from-data-stream) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/parkhojeong/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/parkhojeong/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parkhojeong/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/parkhojeong/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/parkhojeong/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0246-strobogrammatic-number](https://github.com/parkhojeong/LeetCode/tree/master/0246-strobogrammatic-number) |
 | [0266-palindrome-permutation](https://github.com/parkhojeong/LeetCode/tree/master/0266-palindrome-permutation) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/parkhojeong/LeetCode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/parkhojeong/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/parkhojeong/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/parkhojeong/LeetCode/tree/master/0645-set-mismatch) |
